@@ -1,6 +1,6 @@
 print ("Programa LISTA DE CONVIDADOS")
 pw = 0
-senha = '3715'
+senha = '123456'
 nome = input('digite o nome de usuario: ')
 while (pw != senha):
     pw = input('Digite sua senha: ')
